@@ -11,11 +11,11 @@ public class Exercicio3 {
    int num = 1;
 System.out.println("digite o numero");
 
-if (valor < 0 );
-System.out.println(" ele é negativo ");
+   if (valor < 0 );
+   System.out.println(" ele é negativo ");
 
-}else {
-	System.out.println("")
+  }else {
+	System.out.println("ele é positivo");
 
 }
 	
