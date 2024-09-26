@@ -1,4 +1,4 @@
-package javaCurso2024;
+4package javaCurso2024;
 
 import java.util.Scanner;
 
