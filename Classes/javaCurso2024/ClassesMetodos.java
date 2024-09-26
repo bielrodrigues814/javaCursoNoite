@@ -13,16 +13,28 @@ public class ClassesMetodos {
 
 	}// metodo 3
 
-	public String invertString(String texto );return new StringBuilder(texto).reverse().toString();
+	public String invertString(String nome);
+	return new StringBuilder(nome).reverse().toString();
 
 	// metodo 4:calculando fatorial de um numero:
 	public int fatorial (int numero) {
-		if ( numero == 0 || numero === 1) {
+		if ( numero == 0 || numero == 1) {
 			return 1;
 	}
 			return numero * fatorial(numero - 1);
+			
+			
+			//Metodo 5: encontra o maior numero em um array:
+	public int maiorNumero(int[] numeros) {
+				int maior = numeros [0];
+				for ( int numero : numeros ) {
+					if ( numero > maior ) {
+						maior = numero;
+					}
+			}
+	         return maior;
+	 
 		}
-	
 
 	// este metodo executa otros métodos!
 	public static void main(String[] args) {
@@ -37,6 +49,6 @@ public class ClassesMetodos {
 		System.out.println("String invertida de ' java ' : " + util.invertString("Java"));
 		
 		System.out.println("o fatorial de 5 é : " + util.fatorial(5) );
+		int [numeros= {1,5,6,8,44};
+		System.out.println(" o maior número do array é:" + util.maiorNumero(numeros));
 	}
-
-}
