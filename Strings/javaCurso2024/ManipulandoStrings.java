@@ -41,7 +41,7 @@ public class ManipulandoStrings {
 
 		// 8. Remover espaços:
 		String textoComEspacos = " Texto com espaços.       ";
-		System.out.println("Texto sem espaços: '" + textoComEspacos.trim().replaceA11("\\s+", " ") + "'");
+		System.out.println("Texto sem espaços: '" + textoComEspacos.trim().replace("\\s+", " ") + "'");
 	}
 
 }

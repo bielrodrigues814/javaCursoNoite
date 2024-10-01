@@ -33,7 +33,7 @@ public class laboratorio1 {
             System.out.println(numero + " não é primo.");
         }
     }
-}
+
 
 	
 	
@@ -47,9 +47,6 @@ public class laboratorio1 {
 	
 	
 
-	
-	public static void main(String[] args) {
-		
 	
 	
 				

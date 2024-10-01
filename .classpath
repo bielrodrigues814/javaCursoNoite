@@ -15,5 +15,6 @@
 	<classpathentry kind="src" path="10exercicio"/>
 	<classpathentry kind="src" path="Strings"/>
 	<classpathentry kind="src" path="Classes"/>
+	<classpathentry kind="src" path="Herancas"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
