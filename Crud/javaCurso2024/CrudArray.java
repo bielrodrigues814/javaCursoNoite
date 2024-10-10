@@ -90,7 +90,7 @@ public class CrudArray {
 			// Adicionando itens nos seus respectivos arrays:
 			nomes[index] = nome;
 			idades[index] = idade;
-			System.out.println("usuário atualizado com sucesso!");
+ 			System.out.println("usuário atualizado com sucesso!");
 
 		} else {
 			System.out.println("usuário nao encontrado!");

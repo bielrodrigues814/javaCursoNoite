@@ -19,5 +19,6 @@
 	<classpathentry kind="src" path="Polimorfismo"/>
 	<classpathentry kind="src" path="Api"/>
 	<classpathentry kind="src" path="Crud"/>
+	<classpathentry kind="src" path="Gerente"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
