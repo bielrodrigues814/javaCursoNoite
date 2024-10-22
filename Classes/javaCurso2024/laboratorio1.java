@@ -52,10 +52,10 @@ public class laboratorio1 {
 				
 				}
 
-			}
+}
 
-		}
+}
 
-	}
+}
 
 }

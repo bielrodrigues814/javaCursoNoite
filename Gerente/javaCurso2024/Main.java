@@ -14,7 +14,7 @@ public class Main {
 		// percorrendo o array e exibindo os dados:
 		for (Employee employee : employees) {
 			employee.showEmployeeData();
-			System.out.println(" ");
+			System.out.println("");
 		}
 
 	}

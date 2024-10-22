@@ -20,5 +20,8 @@
 	<classpathentry kind="src" path="Api"/>
 	<classpathentry kind="src" path="Crud"/>
 	<classpathentry kind="src" path="Gerente"/>
+	<classpathentry kind="src" path="Interfaces"/>
+	<classpathentry kind="src" path="InterfaceGrafica"/>
+	<classpathentry kind="src" path="ExercicioIMC"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
