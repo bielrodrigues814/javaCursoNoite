@@ -23,5 +23,6 @@
 	<classpathentry kind="src" path="Interfaces"/>
 	<classpathentry kind="src" path="InterfaceGrafica"/>
 	<classpathentry kind="src" path="ExercicioIMC"/>
+	<classpathentry kind="src" path="TCC"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
